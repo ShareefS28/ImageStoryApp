@@ -1,5 +1,5 @@
 # ImageStoryApp
-!!! This is My Graduated Project Look liked !!!
+!!! This is My Graduated Project Looks liked !!!
 
 ![GIFProject1](https://user-images.githubusercontent.com/111628728/229680232-84f0adc7-aad1-499b-b233-c94b25e42c88.gif)
 ![GIFProject2](https://user-images.githubusercontent.com/111628728/229680241-c0782984-0346-4ddc-950e-8bea4032ed41.gif)
