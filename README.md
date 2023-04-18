@@ -1,7 +1,7 @@
 # ImageStoryApp
 
-!!! Concept !!!
-Sort Photos into a Stories
+Concept
+<br>Sort Photos into a Stories
 
 ## How does it work ?
 ![PhotoSortFlow](https://user-images.githubusercontent.com/111628728/232651912-0a556ca5-d358-404b-8555-ba0527708e06.jpg)
