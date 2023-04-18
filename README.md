@@ -1,6 +1,6 @@
 # ImageStoryApp
 
-! Concept
+!!! Concept !!!
 Sort Photos into a Stories
 
 ## How does it work ?
