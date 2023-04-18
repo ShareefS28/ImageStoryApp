@@ -6,6 +6,8 @@ Sort Photos into a Stories
 ### How does it work ?
 ![PhotoSortFlow](https://user-images.githubusercontent.com/111628728/232651912-0a556ca5-d358-404b-8555-ba0527708e06.jpg)
 
+I've just using timestamp in EXIF metadata to sort Photos but it only your photos from your camera! if the sources of photos came from external or others it wouldn't work with my diagram
+
 ###!!! This is My Graduated Project Looks liked !!!
 
 ![GIFProject1](https://user-images.githubusercontent.com/111628728/229682848-c86a46bf-7d08-42dd-95b3-53901f0830d7.gif)
