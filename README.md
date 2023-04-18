@@ -1,6 +1,6 @@
 # ImageStoryApp
 
-## Concept
+## The Concept
 Sort Photos into a Stories
 
 !!! This is My Graduated Project Looks liked !!!
@@ -11,3 +11,6 @@ Sort Photos into a Stories
 ![GIFProject4](https://user-images.githubusercontent.com/111628728/229680261-06118356-9ea1-4c55-af6f-b75af2eb906d.gif)
 ![GIFProject5](https://user-images.githubusercontent.com/111628728/229680263-dd7aee23-0d22-4c4e-b832-0f953c50dc91.gif)
 ![GIFProject6](https://user-images.githubusercontent.com/111628728/229680268-4defb1d0-2025-4c37-9d35-fd9150693b69.gif)
+
+How does it work ?
+![PhotoSortFlow](https://user-images.githubusercontent.com/111628728/232651912-0a556ca5-d358-404b-8555-ba0527708e06.jpg)
