@@ -1,6 +1,6 @@
 # ImageStoryApp
 
-Concept
+__Bold__ Concept
 <br>Sort Photos into a Stories
 
 ## How does it work ?
