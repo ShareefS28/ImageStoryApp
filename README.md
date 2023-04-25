@@ -7,9 +7,9 @@ __Concept__
 * Firebase
 
 ## How does it work ?
-<img src="https://user-images.githubusercontent.com/111628728/232651912-0a556ca5-d358-404b-8555-ba0527708e06.jpg" width="350" height="650">
-
 I've just using timestamp in EXIF metadata to sort Photos but it only your photos from your camera! if the sources of photos came from external or others it wouldn't work with my diagram
+
+<img src="https://user-images.githubusercontent.com/111628728/232651912-0a556ca5-d358-404b-8555-ba0527708e06.jpg" width="350" height="650">
 
 __!!! Here is My Graduated Project Looks liked !!!__
 
