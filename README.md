@@ -1,4 +1,4 @@
-# ImageStoryApp My Graduate Project
+# My Graduate Project ImageStoryApp
 __Concept__
 <br>Sort Photos into a Stories. (is that Easy :sweat_smile:)
 
